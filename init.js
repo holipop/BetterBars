@@ -1,0 +1,1 @@
+console.log("yeah it be working fr fr, init script loaded thumbs up emoji")
