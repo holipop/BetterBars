@@ -4,7 +4,7 @@
 	"description": "A module which gives you a customizable heads-up-display.",
 	"author": "Pandapop",
 	"version": "0.1",
-	"minimumCoreVersion": "9"
+	"minimumCoreVersion": "9",
 	"scripts": [
 	  "init.js"
 	],
