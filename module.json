@@ -9,7 +9,7 @@
 	  "init.js"
 	],
 
-	"url": "",
-	"manifest": "",
-	"download": "",
+	"url": "https://github.com/holipop/BetterBars",
+	"manifest": "https://github.com/holipop/BetterBars/releases/download/v.0.1-test.1/module.json",
+	"download": "https://github.com/holipop/BetterBars/releases/download/v.0.1-test.1/module.zip",
 }
