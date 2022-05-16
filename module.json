@@ -5,4 +5,11 @@
 	"author": "Pandapop",
 	"version": "0.1",
 	"minimumCoreVersion": "9"
+	"scripts": [
+	  "init.js"
+	],
+
+	"url": "",
+	"manifest": "",
+	"download": "",
 }
