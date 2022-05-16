@@ -2,7 +2,15 @@
 	"name": "BetterBars",
 	"title": "Better Bars",
 	"description": "A module which gives you a customizable heads-up-display.",
-	"author": "Pandapop",
+	"authors": [
+        {
+            "name": "Holipop",
+            "url": "https://twitter.com/holipop__"
+        },
+        {
+            "name": "panda_sab"
+        }
+    ],
 	"version": "0.1",
 	"minimumCoreVersion": "9",
 	"scripts": [
